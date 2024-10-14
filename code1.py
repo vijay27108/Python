@@ -25,7 +25,6 @@ print("Paranthesis for operation:",(7-5)*4)
 #Variables cannot contain spaces and can only include letters, numbers, and underscores. They must start with a letter or an underscore.
 test_var = 4+5
 print("test_var for storing the information:",test_var)
-
 #  Value assigned to a variable by overriding the previous value
 my_var = 3
 print("my_var:",my_var)
@@ -34,6 +33,15 @@ my_var = 100
 print("my_var",my_var)
 # Add the variable and integer
 print("variable_integer:",my_var+4)
+
+# Multipication of variables
+var1 = 5
+var2 = 4
+#Multiplying two variables after assigning values to them
+print("multipication:",var1*var2)
+#Addition of two variables
+print("Addition:",var1+var2)
+
 
 
 
