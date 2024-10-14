@@ -25,10 +25,7 @@ a = (5<3)
 print(a)
 b = not a
 print(b)
-
-
 # Strings
-
 w = "Hello, World"
 print(type(w))
 # To check the length of string
@@ -37,12 +34,10 @@ print(len(w))
 v = ""
 print("Empty string",v)
 print(type(v))
-
 # Adding two strings
 new_string = "abc"+"def"
 print(new_string)
 print(type(new_string))
-
 # addition and subtraction are not possible 
 # Multipication is possible
 print(3*"abc")
