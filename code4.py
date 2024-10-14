@@ -99,14 +99,11 @@ print(flowers_list)
 
 #  Adding number in the list
 hardcover_sales = [139, 128, 172, 139, 191, 168, 170]
-
 print("Length of the list:", len(hardcover_sales))
 print("Entry at index 2:", hardcover_sales[2])
-
 #  To get min, max and sum of the list
 print("Minimum:", min(hardcover_sales))
 print("Maximum:", max(hardcover_sales))
 print("Total books sold in one week:", sum(hardcover_sales))
-
 #Slicing and sum
 print("Average books sold in first five days:", sum(hardcover_sales[:5])/5)
