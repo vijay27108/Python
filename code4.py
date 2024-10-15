@@ -96,7 +96,6 @@ print(flowers_list)
 flowers_list.append("pink primrose")
 print(flowers_list)
 
-
 #  Adding number in the list
 hardcover_sales = [139, 128, 172, 139, 191, 168, 170]
 print("Length of the list:", len(hardcover_sales))
