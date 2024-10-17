@@ -42,8 +42,7 @@ print("multipication:",var1*var2)
 #Addition of two variables
 print("Addition:",var1+var2)
 
-
-
+print()
 
 
 
