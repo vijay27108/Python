@@ -41,8 +41,12 @@
 #         if next_guess >= guess:
 #             return guess
 #         guess = next_guess
-
 # print(mySqrt(8))
 
 
-
+class solution():
+    def code(self, var):
+        var1 = str(var)
+        return var1[::-1]
+sol = solution()
+print(sol.code(124))
